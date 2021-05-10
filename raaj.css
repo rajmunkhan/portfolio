@@ -591,6 +591,7 @@ color: white;
     }
     .card-section .card{
         margin: 5px 10px;
+        width:240px;
     }
 
 }
